@@ -5,7 +5,7 @@ pipeline {
 
   environment {
     REPO_URL     = 'https://github.com/LalithaDeepthiTalasila/8.2CDevSecOps.git'
-    NOTIFY_EMAIL = 'her.email@example.com'   // <-- put HER email here
+    NOTIFY_EMAIL = 'lalithadeepthi789@gmail.com'
   }
 
   stages {
